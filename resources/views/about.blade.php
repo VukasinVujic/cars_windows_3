@@ -81,10 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to cars project
+                    About us 
                 </div>
 
                 <div class="links">
+                    <a href="http://localhost/VIVIFY/napredni/Laravel/zadatak%20cars/cars_windows_3/public/">home</a>
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
@@ -92,7 +93,6 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                    <a href="about">about</a>
                 </div>
             </div>
         </div>
